@@ -5,7 +5,7 @@ This dataset supports the paper "RF-GRA: Random Forests-Based RFID-Driven Gestur
 ## Dataset Overview
 - **Gesture Types**: 6 daily gestures: `down`, `left`, `pop`, `push`, `right`, `up`
 
-## Data Fields (8 Columns per CSV)
+## Data Fields (8 Columns per txt)
 | Field         | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
 | `epc`         | Anonymized RFID tag identifier                                              |
