@@ -1,5 +1,5 @@
 # RFID-Gesture Dataset for Aphasia Patients (Anonymous Submission)
-This dataset supports the paper *"RF-GRA: Random Forests-Based RFID-Driven Gesture Recognition Algorithm for Aphasia Patients"* (Submitted to *Sensor Review*).
+This dataset supports the paper "RF-GRA: Random Forests-Based RFID-Driven Gesture Recognition Algorithm for Aphasia Patients" (Submitted to Sensor Review).
 
 
 ## Dataset Overview
